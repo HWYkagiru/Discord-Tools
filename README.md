@@ -13,7 +13,7 @@ Discord Tools, Python-based tools for Discord
 
 ## Disclaimer
 
-This toolkit is intended for educational and testing purposes only. Any misuse of the tools is not endorsed and may violate Discord's terms of service.
+These tools are intended for educational and testing purposes only. Any misuse of the tools is not endorsed and may violate Discord's terms of service.
 
 ## Copyright
 Copyright © 2024 Kagiru. All rights reserved.
